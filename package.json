@@ -1,0 +1,19 @@
+{
+  "name": "pics-memory",
+  "version": "0.0.1",
+  "description": "serving pics from memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "serving",
+    "pics",
+    "memory"
+  ],
+  "author": "Emmanuel Owosekun",
+  "license": "MIT",
+  "devDependecies": {
+    "tape": "^5.6.0"
+  }
+}
