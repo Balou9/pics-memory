@@ -14,5 +14,6 @@ var PICS = new Map(
   })
 )
 
+console.log(PICS)
 
 module.exports = PICS

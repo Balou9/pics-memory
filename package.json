@@ -1,18 +1,26 @@
 {
   "name": "pics-memory",
   "version": "0.0.1",
-  "description": "serving pics from memory",
+  "description": "Serving pics from memory",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balou9/pics-memory.git"
+  },
   "keywords": [
-    "serving",
+    "serving pics",
     "pics",
     "memory"
   ],
   "author": "Emmanuel Owosekun",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Balou9/pics-memory/issues"
+  },
+  "homepage": "https://github.com/Balou9/pics-memory/blob/master/readme.md",
   "devDependecies": {
     "tape": "^5.6.0"
   }
